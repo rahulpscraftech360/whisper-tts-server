@@ -31,6 +31,7 @@ PORT=8000              # Server port
 - `base.en` - 74MB, recommended, ~800MB RAM
 - `small.en` - 244MB, better quality, ~1.2GB RAM
 - `medium.en` - 769MB, excellent quality, ~2.5GB RAM
+- 
 
 ## 🧪 Testing
 
@@ -50,6 +51,7 @@ curl -X POST http://localhost:8000/transcribe \
 | tiny.en | ~500MB | ⚡⚡⚡⚡⚡ | ⭐⭐⭐ |
 | base.en | ~800MB | ⚡⚡⚡⚡ | ⭐⭐⭐⭐ |
 | small.en | ~1.2GB | ⚡⚡⚡ | ⭐⭐⭐⭐⭐ |
+| large-v3 |  2.5GB |  ⚡⚡   |⭐⭐⭐⭐⭐⭐ |
 
 ## 🔗 API Endpoints
 
